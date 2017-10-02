@@ -1,0 +1,5 @@
+ChillinMonitor.app/Contents/Frameworks/** filter=lfs diff=lfs merge=lfs -text
+ChillinMonitor.app/Contents/PlugIns/** filter=lfs diff=lfs merge=lfs -text
+ChillinMonitor.app/Contents/Resources/** filter=lfs diff=lfs merge=lfs -text
+ChillinMonitor.app/Contents/PkgInfo filter=lfs diff=lfs merge=lfs -text
+ChillinMonitor.app/Contents/Info.plist filter=lfs diff=lfs merge=lfs -text

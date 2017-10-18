@@ -1,1 +1,1 @@
-# Chillin-Monitor-Mac
+# Chillin-Monitor-MacOS
